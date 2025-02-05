@@ -1,0 +1,17 @@
+{
+    "monthly_usage": [
+      { "month": "January", "petrol_used_liters": 3, "diesel_used_liters": 5 },
+      { "month": "February", "petrol_used_liters": 5, "diesel_used_liters": 2 },
+      { "month": "March", "petrol_used_liters": 7, "diesel_used_liters": 2 },
+      { "month": "April", "petrol_used_liters": 2, "diesel_used_liters": 8 },
+      { "month": "May", "petrol_used_liters": 10, "diesel_used_liters": 2 },
+      { "month": "June", "petrol_used_liters": 17, "diesel_used_liters": 5 },
+      { "month": "July", "petrol_used_liters": 4, "diesel_used_liters": 4 },
+      { "month": "August", "petrol_used_liters": 3, "diesel_used_liters": 10 },
+      { "month": "September", "petrol_used_liters": 3, "diesel_used_liters": 1 },
+      { "month": "October", "petrol_used_liters": 8, "diesel_used_liters": 3 },
+      { "month": "November", "petrol_used_liters": 3, "diesel_used_liters": 6 },
+      { "month": "December", "petrol_used_liters": 4, "diesel_used_liters": 8 }
+    ]
+  }
+  
